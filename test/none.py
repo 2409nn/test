@@ -1,4 +1,7 @@
 def lolkek(name):
-    return f"Hello {name}"
+    return f"Привет {name}"
 
-lolkek("Iskander")
+lolkek("Искандер")
+
+def tututu():
+    print('тутуту')
